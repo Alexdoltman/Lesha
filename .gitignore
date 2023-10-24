@@ -1,0 +1,67 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/source/repos/Practice/Project.cpp
+/source/repos/Practice/Project.cpp
+/.arduinoIDE
+/.bash_history
+/.cargo
+/.condarc
+/.git-for-windows-updater
+/.gitconfig
+/.lesshst
+/.platformio
+/.rustup
+/.ssh
+/.stm32cubeide
+/.stm32cubemx
+/.stmcube
+/.stmcufinder
+/.vscode
+/3D Objects
+/AppData
+/cd
+/Contacts
+/curl.zip
+/Desktop
+/Documents
+/Downloads
+/e
+/false
+/Favorites
+/first-subfloader
+/Intel
+/latest.cgi
+/LICENSE.txt
+/Links
+/Maths.cpp
+/mkdir
+/Music
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{2dd6480d-b5d6-11ed-bcf3-cc274b3fe22a}.TM.blf
+/NTUSER.DAT{2dd6480d-b5d6-11ed-bcf3-cc274b3fe22a}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{2dd6480d-b5d6-11ed-bcf3-cc274b3fe22a}.TMContainer00000000000000000002.regtrans-ms
+/NTUSER.DAT{c5f00d83-6806-11ee-bd82-047c167121a9}.TM.blf
+/NTUSER.DAT{c5f00d83-6806-11ee-bd82-047c167121a9}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{c5f00d83-6806-11ee-bd82-047c167121a9}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini
+/OneDrive
+/Pictures
+/PracticeIncpp&&rust
+/README.md
+/rust-demo
+/RustroverProjects
+/Saved Games
+/Searches
+/source
+/src
+/STM32Cube
+/tmpsms
+/tree
+/Videos
+/Высшая математика [1987-1989] Бугров Я.С., Никольский С.М
+/Подвеска .cdw
+/Подвеска .cdw.bak
